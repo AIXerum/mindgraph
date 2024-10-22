@@ -218,17 +218,3 @@ curl -X POST http://0.0.0.0:81/trigger-integration/natural_input \
 -H "Content-Type: application/json" \
 -d '{"input":"Company XYZ organized an event attended by John Doe and Jane Smith."}'
 ```
-
-## Contributions
-
-Let's be honest... I don't maintain projects. If you want to take over/manage this, let me know (X/Twitter is a good channel). Otherwise, enjoy this proof of concept starter kit as it is :)
-
-## License
-
-MindGraph is distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Just tag me on Twitter/X [https://twitter.com/yoheinakajima](https://twitter.com/yoheinakajima)
-
-Project Link: [https://github.com/yoheinakajima/MindGraph](https://github.com/yoheinakajima/MindGraph)
